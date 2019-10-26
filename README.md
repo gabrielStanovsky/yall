@@ -3,7 +3,7 @@
 ## Data format
 
 Each file is in json lines format, where each line is a an *unmasked* entry in the dataset.
-Here's a example entry:
+Here's an example entry:
 
 ```
 {
