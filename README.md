@@ -15,3 +15,12 @@ Here's an example entry:
     "user_id": "37274847"
 }
 ```
+
+
+## Citing
+
+If you found this useful, please cite:
+
+```
+TODO
+```
