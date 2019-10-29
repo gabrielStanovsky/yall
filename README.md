@@ -1,6 +1,6 @@
 # Identifying plurality in English second person pronouns
 
-This repo contains the data described [Y’all should read this! Identifying Plurality in Second-Person Personal Pronouns in English Texts](https://arxiv.org/pdf/1910.11966.pdf). The data is composed of two domains: [Twitter](./data/twitter) and [Europarl](./data/europarl). 
+This repo contains the data described in [Y’all should read this! Identifying Plurality in Second-Person Personal Pronouns in English Texts](https://arxiv.org/pdf/1910.11966.pdf). The data is composed of two domains: [Twitter](./data/twitter) and [Europarl](./data/europarl). 
 In each, we identified and annotated gold plurality labels for the ambiguous English "you".
 
 
